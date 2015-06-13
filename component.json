@@ -5,10 +5,6 @@
   "scripts": [
     "main.js"
   ],
-  "main": "themoviedb.js",
-  "dependencies": {
-    "themovidedb-javascript-library": "1.0.0"
-  },
   "homepage": "https://github.com/mag1ster/movie",
   "authors": [
     "mag1ster <mag1ster.jv@gmail.com>"
